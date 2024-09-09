@@ -1,6 +1,6 @@
 # NB: This is an extension activity, for when you finish the task assigned in the README.
 
-If you haven't yet done that activity, head over there first. It's okay. This file will wait.
+If you haven't yet done that activity, head back there first. It's okay. This file will wait.
 
 ----
 
