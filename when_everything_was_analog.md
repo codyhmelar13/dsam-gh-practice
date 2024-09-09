@@ -2,7 +2,7 @@
 
 When everything was analog, there were only 97 possible tv stations.
 
-<figure><img src="/Users/codyhmelar/Documents/GitHub/dsam-gh-practice/DTV_Tonight_Phonenumber_-_Analog_to_digital_conversion_time,_New_Orleans_12_June_2009.jpg" width=800>
+<figure><img src="DTV_Tonight_Phonenumber_-_Analog_to_digital_conversion_time,_New_Orleans_12_June_2009.jpg" width=800>
 
 <figucaption>NTSC analog broadcast television, 1941-2009. Using the old rabbit ears one last time. Analog broadcast have mostly stopped, other than messages giving information on the conversion to digital. Broadcast screen from WWL TV 4 New Orleans shows graphics with website address and telephone number to contact for more information on the transition.
 </figure>
