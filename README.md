@@ -28,7 +28,7 @@ Because you control your own fork, you will now have the option to **clone** the
 
 There are several ways to do this, but they all start with clicking on the green button at the top of the repo that says "Code":
 
-![code button](img/github-code-button-for-cloning.png)
+![code button](img/github-code-button.png)
 
 If you've installed GitHub Desktop, that's a user-friendly, graphic-user-interface option.  
 
