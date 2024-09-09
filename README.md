@@ -52,7 +52,7 @@ Pro tip: if you have a consistent way of naming your files, you can save yoursel
 
 While you could write anything in your new file – and that's what we'll do if we're pressed for time – I thought it might be fun to call back to our conversation from week 1, about what we think of when we think of "digital."
 
-Your task, then: write a short-short story about what makes *digital* different. Begin your story like this: "When everything was analog, ..."
+Your task, then: **write a short-short story about what makes *digital* different. Begin your story like this: "When everything was analog, ..."**
 
 How would you continue the sentence after the comma? Where will you make the turn to digitality? What changed?
 
